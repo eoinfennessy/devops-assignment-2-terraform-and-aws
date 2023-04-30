@@ -1,0 +1,17 @@
+2023-04-28 11:25:03,497    [INFO]    Request with trace ID "load-balancer-test-1" was recieved by instance with ID "i-086830d016d82cae5" and took a total of 0.2968 seconds to complete
+2023-04-28 11:25:03,515    [INFO]    Request with trace ID "load-balancer-test-0" was recieved by instance with ID "i-08a886a4b13fdd1f6" and took a total of 0.3376 seconds to complete
+2023-04-28 11:25:03,562    [INFO]    Request with trace ID "load-balancer-test-9" was recieved by instance with ID "i-08a886a4b13fdd1f6" and took a total of 0.3600 seconds to complete
+2023-04-28 11:25:03,571    [INFO]    Request with trace ID "load-balancer-test-3" was recieved by instance with ID "i-06ac5c80bf334d932" and took a total of 0.3701 seconds to complete
+2023-04-28 11:25:03,575    [INFO]    Request with trace ID "load-balancer-test-5" was recieved by instance with ID "i-086830d016d82cae5" and took a total of 0.3740 seconds to complete
+2023-04-28 11:25:03,581    [INFO]    Request with trace ID "load-balancer-test-12" was recieved by instance with ID "i-086830d016d82cae5" and took a total of 0.3796 seconds to complete
+2023-04-28 11:25:03,612    [INFO]    Request with trace ID "load-balancer-test-21" was recieved by instance with ID "i-06ac5c80bf334d932" and took a total of 0.4092 seconds to complete
+...
+2023-04-28 11:25:03,797    [INFO]    Request with trace ID "load-balancer-test-97" was recieved by instance with ID "i-086830d016d82cae5" and took a total of 0.5845 seconds to complete
+2023-04-28 11:25:03,799    [INFO]    Request with trace ID "load-balancer-test-47" was recieved by instance with ID "i-086830d016d82cae5" and took a total of 0.5921 seconds to complete
+2023-04-28 11:25:03,801    [INFO]    Request with trace ID "load-balancer-test-63" was recieved by instance with ID "i-086830d016d82cae5" and took a total of 0.5923 seconds to complete
+2023-04-28 11:25:03,803    [INFO]    Request with trace ID "load-balancer-test-96" was recieved by instance with ID "i-086830d016d82cae5" and took a total of 0.5907 seconds to complete
+2023-04-28 11:25:03,804    [INFO]    Request with trace ID "load-balancer-test-89" was recieved by instance with ID "i-086830d016d82cae5" and took a total of 0.5928 seconds to complete
+2023-04-28 11:25:03,805    [INFO]    Instance i-06ac5c80bf334d932 completed 32 requests with an average request time of 0.4560 seconds
+2023-04-28 11:25:03,805    [INFO]    Instance i-086830d016d82cae5 completed 35 requests with an average request time of 0.5436 seconds
+2023-04-28 11:25:03,805    [INFO]    Instance i-08a886a4b13fdd1f6 completed 33 requests with an average request time of 0.5017 seconds
+2023-04-28 11:25:03,809    [INFO]    Completed 100 requests in 0.6462 seconds

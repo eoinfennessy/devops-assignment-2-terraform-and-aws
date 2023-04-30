@@ -1,4 +1,9 @@
 .DS_Store
+*.pem
+builds/
+markdown/
+submission/
+*/env/
 
 # Local .terraform directories
 **/.terraform/*
